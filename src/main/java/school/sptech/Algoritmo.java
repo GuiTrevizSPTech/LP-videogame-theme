@@ -1,4 +1,4 @@
 package school.sptech;
 
-public class Main {
+public class Algoritmo {
 }
